@@ -394,27 +394,6 @@ python exemplo_uso_api.py
 
 ---
 
-## 🎯 **CASES DE SUCESSO REAIS**
-
-> ### 🏆 **"Revolucionou nossa tomada de decisão estratégica"**
-> *"Problemas que antes levavam semanas de reuniões e alinhamentos agora são resolvidos em minutos. O nível de qualidade e estruturação das soluções é superior ao que conseguíamos com equipes humanas."*
-> 
-> **— Ana Costa, CEO, TechStartup (150 funcionários)**  
-> **Resultado:** 89% redução tempo de decisão, R$ 230k economia/mês
-
-> ### 💰 **"ROI de 1.200% no primeiro trimestre"**  
-> *"Substituiu 3 consultorias externas e acelerou 40+ projetos estratégicos. A consistência e profundidade das análises superou nossas expectativas mais otimistas."*
-> 
-> **— Roberto Silva, CTO, RetailCorp (800+ funcionários)**  
-> **Resultado:** R$ 180k investimento → R$ 2.16M economia anual
-
-> ### 🚀 **"Escalamos de 10 para 100 projetos simultâneos"**
-> *"Nossa capacidade de análise e execução estratégica aumentou 10x. Conseguimos ser muito mais ágeis nas decisões e aproveitar oportunidades de mercado."*
-> 
-> **— Mariana Santos, Head of Strategy, GrowthCo**  
-> **Resultado:** 10x aumento capacidade, 45% faster time-to-market
-
----
 
 ## 📈 **ROADMAP & EVOLUÇÃO CONTÍNUA**
 
