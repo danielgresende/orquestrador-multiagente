@@ -84,11 +84,12 @@ graph TD
 
 ---
 
-## 🧱 Estrutura do Projeto
-
-O sistema foi desenvolvido com arquitetura modular e escalável, com separação clara entre lógica de negócio, interface, banco de dados e testes automatizados:
+<details>
+<summary>📂 Clique para ver a estrutura completa do projeto</summary>
 
 ![Estrutura do projeto](https://github.com/danielgresende/orquestrador-multiagente/blob/main/tree%20multiagente.png)
+
+</details>
 
 ---
 
