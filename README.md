@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Banner](https://via.placeholder.com/800x200/4285f4/ffffff?text=Orquestrador+Multi-Agente+LangGraph)
 
 ### 🎯 4 IAs especializadas colaborando para resolver problemas complexos em minutos
 
